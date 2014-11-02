@@ -1,3 +1,0 @@
-cscript geraCronogramasFake.js
-
-pause
